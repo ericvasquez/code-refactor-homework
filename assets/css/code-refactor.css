@@ -43,7 +43,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* adds hero image below header and sets styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -52,7 +52,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* makes each section stack on the left side and stay the same width */
 .services {
     width: 75%;
     display: inline-block;
@@ -60,7 +60,6 @@ p {
 }
 
 .services section{
-    
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,7 +83,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* sets container dimentions for the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
